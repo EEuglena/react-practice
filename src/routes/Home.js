@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import React from "react";
 import styles from "./Home.module.css";
 import Movie from "../components/Movie";
 
