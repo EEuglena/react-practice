@@ -1,0 +1,27 @@
+.movie {
+	display: flex;
+	padding: 20px;
+}
+
+.cover {
+	float: right;
+}
+
+.title {
+	font-size: large;
+	font-family: "Bahnschrift SemiBold";
+}
+
+.summary {
+	padding: 10px 10px;
+	font-family: "Bahnschrift Light";
+}
+
+.genre {
+	color: white;
+	background-color: tomato;
+	font-size: smaller;
+	margin: 3px;
+	padding: 5px;
+	border-radius: 10px;
+}
